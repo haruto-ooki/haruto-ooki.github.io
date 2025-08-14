@@ -31,4 +31,7 @@ title: Home
 どうぞ、ゆっくりしていってください。
 
 それと、皆さん一緒にプログラミングを楽しみましょう！
+
+---
+
 [本ページの利用規約](https://haruto-ooki.github.io/Website/terms.md)
