@@ -20,8 +20,7 @@ title: Home
 興味があれば、ぜひのぞいてみてください。
 
 [Discord サーバー](https://discord.gg/deWZATS6eM)<br>
-[ルール](https://haruto-ooki.github.io/Discode/rules.html)<br>
-[利用規約](https://haruto-ooki.github.io/Discode/terms.html)
+[ルール及び利用規約](https://haruto-ooki.github.io/Discode/server-info.html)
 
 ---
 
