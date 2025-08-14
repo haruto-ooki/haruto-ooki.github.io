@@ -9,4 +9,4 @@ title: Discode Server rule
 
 ---
 
-_なお、このルールは改訂される可能性があります。_
+<small>なお、このルールは改訂される可能性があります。</small>
