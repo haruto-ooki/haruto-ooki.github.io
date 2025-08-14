@@ -34,4 +34,4 @@ title: Home
 
 ---
 
-[本ページの利用規約](https://haruto-ooki.github.io/Website/terms.md)
+[本ページの利用規約](https://haruto-ooki.github.io/Website/terms.html)
