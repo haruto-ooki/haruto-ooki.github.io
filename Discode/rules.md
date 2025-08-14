@@ -3,13 +3,26 @@ layout: default
 title: Discode Server rule
 ---
 
+<style>
+ul.rule-list {
+  list-style: none;
+  padding-left: 0;
+}
+ul.rule-list li {
+  margin-bottom: 0.5em;
+}
+</style>
+
 # Discodeサーバーでのルール
 
-1. 悪口・下ネタ禁止
-1. ほかにも人が入ってくる場合があることを留意すること
-1. ほかの人に失礼のない発言をすること
+<ul class="rule-list">
+  <li><strong>1.</strong> 悪口・下ネタ禁止</li>
+  <li><strong>2-1.</strong> ほかにも人が入ってくる場合があることを留意すること</li>
+  <li><strong>2-2.</strong> ほかの人に失礼のない発言をすること</li>
+</ul>
 
 ---
+
 <div align="center">
-  <small><strong><span style="color: #888888;">なお、このルールは改訂される可能性があります。</span></strong></small>
+  <small><span style="color: #999999;"><em>※このルールは改訂される可能性があります。</em></span></small>
 </div>
