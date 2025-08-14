@@ -23,3 +23,7 @@ title: Terms of this page
 - 表示される情報の正確性には努めていますが、完全性を保証するものではありません。
 
 ---
+
+<div align="center">
+    <small><span style="color: #999999;"><em>※このガイドラインは、予告なしに改訂される可能性があります。</em></span></small>
+</div>
