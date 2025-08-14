@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Haruto's Home
+title: Home
 ---
 
 # 自己紹介
