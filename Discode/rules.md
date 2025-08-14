@@ -7,6 +7,7 @@ title: Discode Server rule
 
 1. 悪口・下ネタ禁止
 1. ほかにも人が入ってくる場合があることを留意すること
+1. ほかの人に失礼のない発言をすること
 
 ---
 <div align="center">
