@@ -6,7 +6,8 @@ title: Discode Server rule
 <style>
 ul.rule-list {
   list-style: none;
-  padding-left: 0;
+  margin: 0;
+  padding: 0;
 }
 ul.rule-list li {
   margin-bottom: 0.5em;
