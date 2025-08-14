@@ -21,7 +21,7 @@ title: Haruto's Home
 
 興味があれば、ぜひのぞいてみてください。
 
-[Discord サーバー](https://discord.gg/deWZATS6eM)
+[Discord サーバー](https://discord.gg/deWZATS6eM)<br>
 [ルールとか](https://haruto-ooki.github.io/Discode/rules.html)
 
 ---
