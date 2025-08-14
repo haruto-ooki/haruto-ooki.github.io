@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Discode Server rule
-published: false
 ---
 
 # Discodeサーバーでのルール
