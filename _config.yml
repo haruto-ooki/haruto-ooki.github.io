@@ -2,7 +2,8 @@ title: Haruto's Markdown Site
 markdown: kramdown
 theme: minima
 
-header_pages: []
+sass:
+  style: compressed
 
 include:
-  - assets/css/navigation.css
+  - assets/css
