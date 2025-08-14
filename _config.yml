@@ -4,8 +4,7 @@ theme: minima
 
 header_pages: []
 
-sass:
-  style: compressed
-
 include:
   - assets/css/navigation.css
+  - _includes/head.html
+  - _layouts/default.html
