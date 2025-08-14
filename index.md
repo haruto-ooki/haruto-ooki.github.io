@@ -6,7 +6,7 @@ title: Haruto's Home
 # 自己紹介
 
 このページは、僕 Haruto の個人サイトです。  
-主に、キャラクターデザインやプログラミングに関することをまとめています。
+主に、プログラミングに関することをまとめています。
 
 静かで、やさしくて、ちょっと哲学的なものが好きです。  
 線の細さや余白の使い方にこだわりながら、  
@@ -22,6 +22,7 @@ title: Haruto's Home
 興味があれば、ぜひのぞいてみてください。
 
 [Discord サーバー](https://discord.gg/deWZATS6eM)
+<br>
 [ルールとか](https://haruto-ooki.github.io/Discode/rules.html)
 
 ---
