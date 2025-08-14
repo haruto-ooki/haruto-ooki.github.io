@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Haruto's Home
 ---
 
 # Discodeサーバーでのルール
