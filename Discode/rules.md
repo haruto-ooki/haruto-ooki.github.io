@@ -24,8 +24,8 @@ title: Discode Server rule
 - 安全のため、住所・電話番号などは書かないでください
 
 ### 5. **チャンネルの目的に沿った投稿を**
-- 雑談は `#雑談` へ
-- スケジュール報告は`#スケジュール`へ
+- 雑談は <code>#雑談</code> へ  
+- スケジュール報告は <code>#スケジュール</code> へ  
 - 整った空間は、心にも静けさをもたらします
 
 ---
@@ -38,6 +38,6 @@ title: Discode Server rule
 
 ---
 
-<div align="center">
-  <small><span style="color: #999999;"><em>※このルールは改訂される可能性があります。</em></span></small>
+<div class="rule-note">
+  ※このルールは改訂される可能性があります。
 </div>
