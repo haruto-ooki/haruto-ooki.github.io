@@ -9,5 +9,5 @@ title: Discode Server rule
 
 ---
 <div align="center">
-    <small><strong>なお、このルールは改訂される可能性があります。</strong></small>
+  <small><strong><span style="color: #888888;">なお、このルールは改訂される可能性があります。</span></strong></small>
 </div>
