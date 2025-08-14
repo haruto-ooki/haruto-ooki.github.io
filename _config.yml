@@ -1,3 +1,6 @@
 title: Haruto's Markdown Site
 markdown: kramdown
 theme: minima
+
+header_pages:
+  - index.md
