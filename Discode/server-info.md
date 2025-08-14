@@ -54,5 +54,4 @@ title: Discode Server Guide
 
 <div align="center">
   <small><span style="color: #999999;"><em>※このガイドラインは、安心と静けさを守るために存在します。</em></span></small><br>
-  <small><span style="color: #999999;"><em>※このガイドラインは、予告なしに改訂される可能性があります。</em></span></small>
 </div>
