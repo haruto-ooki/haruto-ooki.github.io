@@ -3,3 +3,9 @@ markdown: kramdown
 theme: minima
 
 header_pages: []
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/navigation.css
