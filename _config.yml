@@ -1,9 +1,17 @@
 title: Haruto's Markdown Site
-markdown: kramdown
 theme: minima
 
-sass:
-  style: compressed
+# ナビゲーションリンクを生成しない
+header_pages: []
 
+# Markdown設定（必要に応じて）
+markdown: kramdown
+
+# CSSファイルを読み込むための設定
 include:
-  - assets/css
+  - assets/css/custom.css
+
+# GitHub Pages用（必要なら）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
