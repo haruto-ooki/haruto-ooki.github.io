@@ -6,3 +6,4 @@ header_pages: []
 
 include:
   - assets/css/navigation.css
+  - _layouts/default.html
