@@ -1,3 +1,7 @@
 .trigger {
   display: none !important;
 }
+
+body a {
+  color: #0000EE;
+}
