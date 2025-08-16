@@ -15,6 +15,7 @@ title: Home
 ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。
 下記から言語を選択してください。<br>
 - [Python](https://haruto-ooki.github.io/coding-languages/Python/index.html)
+- [HTML](https://haruto-ooki.github.io/coding-languages/HTML/index.html)
 
 ---
 
