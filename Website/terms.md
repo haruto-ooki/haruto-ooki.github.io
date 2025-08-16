@@ -3,7 +3,7 @@ layout: default
 title: Terms of this page
 ---
 
-# :desktop_computer: ホームページ利用規約（Terms of Use）
+# <img width="23px" src="../assets/images/PC_icon.png"> ホームページ利用規約（Terms of Use）
 
 このホームページは、静けさと思索を大切にする空間です。  
 訪れるすべての方が安心して過ごせるよう、以下の点をご理解ください。
