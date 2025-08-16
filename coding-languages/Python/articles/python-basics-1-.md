@@ -17,7 +17,7 @@ title: Python Basics 1
 Pythonで文字を出力するには`print()`関数を使うとできます。
 
 例えば、こんにちは!と出力したいときは
-```Python
+```python
 print("こんにちは！")
 ```
 と記入することでこんにちは!と出力することができます。
@@ -25,7 +25,7 @@ print("こんにちは！")
 ---
 
 なので、Hello!と出力したい場合は
-```Python
+```python
 print("Hello!")
 ```
 と記入することでHello!と出力することができます。
