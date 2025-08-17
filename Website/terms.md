@@ -3,7 +3,7 @@ layout: default
 title: Terms of this page
 ---
 
-# 🖥️ ホームページ利用規約（Terms of Use）
+# <small>🖥️</small> ホームページ利用規約（Terms of Use）
 
 このホームページは、静けさと思索を大切にする空間です。  
 訪れるすべての方が安心して過ごせるよう、以下の点をご理解ください。
