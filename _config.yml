@@ -7,10 +7,6 @@ header_pages: []
 # Markdown設定（必要に応じて）
 markdown: kramdown
 
-# CSSファイルを読み込むための設定
-include:
-  - assets/css/custom.css
-
 # GitHub Pages用（必要なら）
 plugins:
   - jekyll-feed
