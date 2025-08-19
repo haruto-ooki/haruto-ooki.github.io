@@ -7,4 +7,4 @@ title: Python Articles Index
 
 ---
 
-[Pythonの基本-1-](https://haruto-ooki.github.io/coding-languages/Python/articles/python-basics-1-.html)
+[Pythonの基本-1-](./articles/python-basics-1-.html)

@@ -64,8 +64,12 @@ Webページの仕組みを理解するための最初の一歩です。
 ## 4. 画像の表示
 
 ```html
-<img src="https://example.com/photo.jpg" alt="風景写真" />
+<img src="https://haruto-ooki.github.io/assets/images/logo.png" alt="ページロゴ">
 ```
+
+結果
+
+<img class="logo" src="../../../assets/images/logo.png" alt="ページロゴ">
 
 - `src`：画像のURL  
 - `alt`：画像が表示されないときの説明文  

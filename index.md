@@ -14,8 +14,8 @@ title: Home
 
 ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。
 下記から言語を選択してください。<br>
-- [Python](https://haruto-ooki.github.io/coding-languages/Python/index.html)
-- [HTML](https://haruto-ooki.github.io/coding-languages/HTML/index.html)
+- [Python](./coding-languages/Python/index.html)
+- [HTML](./coding-languages/HTML/index.html)
 
 ---
 
@@ -27,7 +27,7 @@ title: Home
 興味があれば、ぜひのぞいてみてください。
 
 [Discord サーバー](https://discord.gg/deWZATS6eM)<br>
-[ルール及び利用規約](https://haruto-ooki.github.io/Discode/server-info.html)
+[ルール及び利用規約](./Discode/server-info.html)
 
 ---
 
@@ -40,4 +40,4 @@ title: Home
 
 ---
 
-[本ページの利用規約](https://haruto-ooki.github.io/Website/terms.html)
+[本ページの利用規約](./Website/terms.html)

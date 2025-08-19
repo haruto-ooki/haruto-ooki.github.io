@@ -7,4 +7,4 @@ title: HTML Articles Index
 
 ---
 
-[HTMLの基本-1-](https://haruto-ooki.github.io/coding-languages/HTML/articles/html-basics-1-.html)
+[HTMLの基本-1-](./articles/html-basics-1-.html)
