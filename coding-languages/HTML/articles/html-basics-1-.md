@@ -182,7 +182,7 @@ Webページの仕組みを理解するための最初の一歩です。
 ### 属性の書き方ミス
 
 ```html
-<a href=https://example.com>リンク</a>  <!-- ❌ -->
+<a href=https://example.com>リンク</a>  <!-- x -->
 ```
 
 - 属性値は「"」で囲む → `href="..."`
