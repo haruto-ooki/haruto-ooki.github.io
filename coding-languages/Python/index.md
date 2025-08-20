@@ -7,4 +7,4 @@ title: Python Articles Index
 
 ---
 
-[Pythonの基本-1-](./articles/python-basics-1-.html)
+[Python入門 ① - 基本・変数・データ型](./articles/python-basics-1-.html)

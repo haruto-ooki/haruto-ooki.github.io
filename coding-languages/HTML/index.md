@@ -7,4 +7,4 @@ title: HTML Articles Index
 
 ---
 
-[HTMLの基本-1-](./articles/html-basics-1-.html)
+[HTML入門 ① - 基本構造と主要タグ](./articles/html-basics-1-.html)

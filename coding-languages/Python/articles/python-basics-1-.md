@@ -2,7 +2,8 @@
 layout: default
 title: Python Basics -1-
 ---
-# Python入門講座 ① - 基本・変数・データ型
+
+# Python入門 ① - 基本・変数・データ型
 
 この講座では、Pythonの基本的な文法、変数の概念、主要なデータ型について学びます。初心者向けの内容です。
 
@@ -151,7 +152,7 @@ c = int(3.99)   # 3（小数点以下切り捨て）
 print(0.1 + 0.2)  # 0.30000000000000004
 ```
 
-精密計算
+精密計算をしたい場合
 
 ```python
 from decimal import Decimal
