@@ -1,4 +1,3 @@
-markdown
 ---
 layout: default
 title: Python Basics -1-
