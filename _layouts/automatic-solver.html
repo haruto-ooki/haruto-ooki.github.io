@@ -1,42 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <meta charset="UTF-8">
-  <title>Decimal.jsで高精度な方程式計算</title>
-
-  <!-- MathJax for LaTeX rendering -->
-  <script>
-    window.MathJax = {
-      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['\\[', '\\]']] },
-      svg: { fontCache: 'global' }
-    };
-  </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
-
-  <!-- Decimal.js for precise arithmetic -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/decimal.js/10.3.1/decimal.min.js"></script>
-
-  <style>
-    body {
-      background: #111;
-      color: #eee;
-      font-family: 'Helvetica Neue', sans-serif;
-      padding: 2em;
-    }
-    input {
-      width: 100%;
-      padding: 0.6em;
-      font-size: 1.2em;
-      background: #222;
-      color: #fff;
-      border: 1px solid #555;
-      border-radius: 4px;
-    }
-    .output {
-      margin-top: 2em;
-      font-size: 1.6em;
-    }
-  </style>
+    {% include head.html %}
   </head>
   <body>
     <header class="site-header" role="banner">
