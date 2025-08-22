@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 自己紹介
+## 自己紹介
 
 このページは、僕 Haruto の個人サイトです。
 主に、プログラミングに関することをまとめています。
@@ -12,10 +12,19 @@ title: Home
 
 ---
 
-ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。
+ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。<br>
 下記から言語を選択してください。<br>
 - [Python](./coding-languages/Python/index.html)
 - [HTML](./coding-languages/HTML/index.html)
+
+---
+
+## ツール
+
+時々、ツールなども出しています。<br>
+良かったら見ていってください。<br>
+- [自動1次方程式回答ツール](./tools/automatic-linear-equation-solver.md)
+
 
 ---
 
