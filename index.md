@@ -14,8 +14,9 @@ title: Home
 
 ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。<br>
 下記から言語を選択してください。<br>
-- [Python](./coding-languages/Python/index.html)
-- [HTML](./coding-languages/HTML/index.html)
+- [Python](./kind_of_articles/Python/index.html)
+- [HTML](./kind_of_articles/HTML/index.html)
+- [適当な記事](./kind_of_articles/misc/index.html)
 
 ---
 
