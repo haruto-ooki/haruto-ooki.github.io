@@ -8,7 +8,9 @@ title: Home
 このページは、僕 Haruto の個人サイトです。
 主に、プログラミングに関することをまとめています。
 
-プログラミングとちょっと哲学的なものが好きです。
+プログラミングと数学や科学や物理が好きです。
+
+<img class="logo" href="assets/images/haruto.png" alt="Haruto" />
 
 ---
 
