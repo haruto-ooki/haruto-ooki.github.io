@@ -5,22 +5,16 @@ title: Home
 
 ## 自己紹介
 
-このページは、僕 Haruto の個人サイトです。
-主に、プログラミングに関することをまとめています。
-
-プログラミングと数学や科学や物理が好きです。
-
 <div class="flex-container">
   <div class="text-block">
+    <p>このページは、僕 Haruto の個人サイトです。<br>
+    主に、プログラミングに関することをまとめています。<br>
+    プログラミングと数学や科学や物理が好きです。</p>
   </div>
   <div class="table-right">
     <table>
-      <tr>
-        <td><img class="logo" src="assets/images/haruto.png" /></td>
-      </tr>
-      <tr>
-        <td>Haruto</td>
-      </tr>
+      <tr><td><img class="logo" src="assets/images/haruto.png" /></td></tr>
+      <tr><td>Haruto</td></tr>
     </table>
   </div>
 </div>
