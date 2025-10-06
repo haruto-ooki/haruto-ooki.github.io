@@ -10,7 +10,7 @@ title: Home
 
 プログラミングと数学や科学や物理が好きです。
 
-<div class="right-align">
+<div class="table-right">
   <table>
     <tr>
       <td><img class="logo" src="assets/images/haruto.png" /></td>
