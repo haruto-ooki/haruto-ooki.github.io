@@ -279,7 +279,7 @@ print("テスト")  # この行の右側にもコメントを書ける
 print("Hello"  # 括弧が閉じていない
 ```
 
-出力：<br>
+出力：
 <div class="highlight">
   <pre class="highlight">
     <code>
@@ -287,7 +287,6 @@ print("Hello"  # 括弧が閉じていない
     </code>
   </pre>
 </div>
-<br>
 
 ---
 
