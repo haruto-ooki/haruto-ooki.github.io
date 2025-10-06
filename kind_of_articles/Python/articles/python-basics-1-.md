@@ -280,12 +280,13 @@ print("Hello"  # 括弧が閉じていない
 ```
 
 出力：<br>
-
-<pre class="highlight">
-  <code>
-    <font color="red">SyntaxError: unexpected EOF while parsing</font>
-  </code>
-</pre>
+<div class="highlight">
+  <pre class="highlight">
+    <code>
+      <font color="red">SyntaxError: unexpected EOF while parsing</font>
+    </code>
+  </pre>
+</div>
 <br>
 
 ---
