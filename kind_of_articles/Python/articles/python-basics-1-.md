@@ -279,11 +279,14 @@ print("テスト")  # この行の右側にもコメントを書ける
 print("Hello"  # 括弧が閉じていない
 ```
 
-出力：
+出力：<br>
 
-```python
-SyntaxError: unexpected EOF while parsing
-```
+<pre class="highlight">
+  <code>
+    <font color="red">SyntaxError: unexpected EOF while parsing</font>
+  </code>
+</pre>
+<br>
 
 ---
 
