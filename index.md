@@ -11,6 +11,8 @@ title: Home
 プログラミングと数学や科学や物理が好きです。
 
 <div class="flex-container">
+  <div class="text-block">
+  </div>
   <div class="table-right">
     <table>
       <tr>
