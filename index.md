@@ -10,16 +10,17 @@ title: Home
 
 プログラミングと数学や科学や物理が好きです。
 
-
-<div class="table-right">
-  <table>
-    <tr>
-      <td><img class="logo" src="assets/images/haruto.png" /></td>
-    </tr>
-    <tr>
-      <td>Haruto</td>
-    </tr>
-  </table>
+<div class="flex-container">
+  <div class="table-right">
+    <table>
+      <tr>
+        <td><img class="logo" src="assets/images/haruto.png" /></td>
+      </tr>
+      <tr>
+        <td>Haruto</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 

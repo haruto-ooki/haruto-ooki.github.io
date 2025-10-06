@@ -65,7 +65,12 @@ input {
   font-size: 1.6em;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
 .table-right {
-  float: right;
-  width: auto;
+  margin-left: 2em;
 }
