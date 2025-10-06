@@ -10,8 +10,17 @@ title: Home
 
 プログラミングと数学や科学や物理が好きです。
 
-<img class="logo" src="assets/images/haruto.png" alt="Haruto" /><br>
-## ⇧ Haruto
+<div style="align: right;">
+  <table>
+    <tr>
+      <td><img class="logo" src="assets/images/haruto.png" /></td>
+    </tr>
+    <tr>
+      <td>Haruto</td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
