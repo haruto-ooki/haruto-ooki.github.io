@@ -284,7 +284,9 @@ print("Hello"  # 括弧が閉じていない
   <div class="highlight">
     <pre class="highlight">
       <code>
-        <font color="red">SyntaxError: unexpected EOF while parsing</font>
+        <span class="p">
+          <font color="red">SyntaxError: unexpected EOF while parsing</font>
+        </span>
       </code>
     </pre>
   </div>
