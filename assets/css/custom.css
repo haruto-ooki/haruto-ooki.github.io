@@ -67,4 +67,5 @@ input {
 
 .right-align {
   float: right;
+  width: auto;
 }
