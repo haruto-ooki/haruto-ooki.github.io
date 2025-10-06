@@ -67,11 +67,20 @@ input {
 
 .flex-container {
   display: flex;
-  justify-content: flex-end; /* 右寄せ */
+  justify-content: space-between;
   align-items: flex-start;
-  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 .table-right {
-  margin-left: auto; /* 左側の余白を自動にして右へ押し出す */
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.wrapper {
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
 }
