@@ -65,9 +65,10 @@ input {
   font-size: 1.6em;
 }
 
-right-align-content {
+.right-align-content {
   display: block;
   margin-left: auto;
   margin-right: 0;
+  text-align: right;
 }
 
