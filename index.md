@@ -20,6 +20,11 @@ title: Home
 
 ここではプログラミングに関する記事をたまに記事にしているので、見ていってください。<br>
 下記から言語を選択してください。<br>
+
+## ジャンル一覧
+
+---
+
 - [Python](./kind_of_articles/Python/index.html)
 - [HTML](./kind_of_articles/HTML/index.html)
 - [適当な記事](./kind_of_articles/misc/index.html)
