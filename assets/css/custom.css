@@ -69,6 +69,6 @@ input {
   display: flex;
   justify-content: flex-end; /* 右寄せ */
   align-items: center;       /* 垂直方向中央揃え（必要に応じて） */
-  gap: 1em;                  /* 要素間のスペース */
+  gap: 3em;                  /* 要素間のスペース */
 }
 
