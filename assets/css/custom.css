@@ -89,3 +89,7 @@ input {
 .right-align-content .author p {
   margin: 0;
 }
+
+.wrapper {
+  margin-right: 0px;
+}
