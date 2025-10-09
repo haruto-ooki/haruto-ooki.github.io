@@ -67,13 +67,25 @@ input {
 
 .right-align-content {
   display: flex;
-  justify-content: flex-end; /* 右寄せ */
-  align-items: center;       /* 垂直方向中央揃え（必要に応じて） */
-  gap: 3em;                  /* 要素間のスペース */
+  justify-content: space-between; /* 左右に分ける */
+  align-items: center;
+  gap: 3em;
 }
 
-.right-align-content .author p {
+.right-align-content p {
+  margin: 0;
+}
+
+.right-align-content .author {
+  display: flex;
+  align-items: center;
+  gap: 1em;
   width: fit-content;
   min-width: 50px;
   max-width: 300px;
+  text-align: right;
+}
+
+.right-align-content .author p {
+  margin: 0;
 }
