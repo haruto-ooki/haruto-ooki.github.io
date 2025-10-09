@@ -72,7 +72,7 @@ input {
   gap: 3em;                  /* 要素間のスペース */
 }
 
-.right-align-content .one-content p {
+.right-align-content .author p {
   width: fit-content;
   min-width: 50px;
   max-width: 300px;
